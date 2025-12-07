@@ -12,9 +12,6 @@ export default defineNuxtConfig({
     classSuffix: "",
   },
   nitro: {
-    rollupConfig: {
-      external: ["sqlite3", "better-sqlite3"],
-    },
     prerender: {
       crawlLinks: true,
       routes: ["/sitemap.xml", "/rss.xml"],
