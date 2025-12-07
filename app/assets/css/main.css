@@ -1,0 +1,46 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+
+
+/* Theme Css */
+@layer base {
+  :root {
+    --bg: #f2f2f2;
+    --text: #171717;
+    --secondary-dark: #fff;
+    --borderColor: #c7c7c7;
+    --lightBorder: #a7a5a5cc;
+    --blue-hightligth: #1e3c60;
+    --sharpGreen: #00dc82;
+    --green: #218c60;
+
+  }
+
+  html.dark {
+    --bg: #171717;
+    --text: #f2f2f2;
+    --secondary-dark: #232323;
+    --borderColor: #414040;
+    --lightBorder: #2d2c2ccc;
+    --blue-hightligth: #568ccd;
+    --sharpGreen: #00dc82;
+    --green: #218c60;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.highlight{
+  color: #00dc82;
+  font-weight: 600;
+}
+.blue-hightlight{
+  color: var(--blue-hightligth);
+}
+body{
+    background-color: var(--bg);
+}
+

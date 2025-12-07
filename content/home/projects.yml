@@ -1,0 +1,12 @@
+title: "Projects"
+desc: "Listing some of my personal and professional projects."
+projects:
+  - name: "Holiday Animation Automation"
+    desc: "A workflow automation project built for managing holiday animations across multiple client websites. The Odoo team provided an API that returns a structured JSON list of clients and their required animations. Using this API, I created a centralized CPanel-based setup where adding just two script tags on any client site automatically loads and displays the correct holiday animation dynamically. This removed manual work and streamlined the entire deployment process."
+
+  - name: "Cookie Consent Banner"
+    desc: "A custom cookie consent solution developed for my organization, fully integrated with Google Analytics and Google Tag Manager. The banner updates user consent preferences through the 'gtag' function, ensuring accurate tracking while meeting compliance requirements. This solution dynamically manages tags and triggers without relying on third-party tools, helping the organization reduce recurring costs while maintaining full control over data handling."
+
+  - name: "Secret Vartalaap"
+    desc: "A personal side project — a real-time chat application built using Vue.js and Firebase. Users can create a room and share the room ID to start a private conversation. Messages are end-to-end encrypted, and all chats are automatically deleted once both participants leave the room. This project was created to explore real-time communication, encryption concepts, and Firebase’s real-time capabilities."
+    link: "https://secret-vartalaap.firebaseapp.com/"

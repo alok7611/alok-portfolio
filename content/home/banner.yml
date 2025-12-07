@@ -1,0 +1,22 @@
+name: "Kshatriya Alok Singh"
+title: "Frontend-Focused with Backend Skills"
+subtitle: "Turning concepts into clean UI, smart features, and smooth functionality — powered by the stack below."
+badges:
+  - img: "/home/badges/vue.png"
+  - img: "/home/badges/nuxt.png"
+  - img: "/home/badges/php.png"
+  - img: "/home/badges/html.png"
+  - img: "/home/badges/css.png"
+  - img: "/home/badges/JS.png"
+  - img: "/home/badges/firebase.png"
+  - img: "/home/badges/wp.png"
+    
+location: "Based in India"
+status:
+  available: true
+  text: "Available for new projects"
+
+image: "/images/profile.jpg"
+cta:
+  text: "Hire Me"
+  link: "/contact"

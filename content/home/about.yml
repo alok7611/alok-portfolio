@@ -1,0 +1,8 @@
+name: "About Me"
+para1: "As a <span class=\"highlight\">Vue/Nuxt</span>-focused front-end developer with basic backend skills, I build user-centered digital experiences with clean UI and dependable functionality. My approach prioritizes optimization—improving workflows, boosting performance, and crafting components that scale. I enjoy turning ideas into smooth, intuitive interfaces where every detail has purpose."
+para2: "I think beyond individual screens and focus on creating efficient systems. I’m always learning, especially around automation to streamline repetitive tasks and speed up development. I value aesthetics, functionality, and continuous improvement, and I bring this mindset into every project."
+workExp:
+  title: "Work Experience"
+  desc: "<span class=\"font-medium\">July 2023 - Present</span>"
+  desc2: "Programmer Analyst at"
+  desc3: "<span class=\"blue-hightlight font-medium\">Meditab Software</span>"

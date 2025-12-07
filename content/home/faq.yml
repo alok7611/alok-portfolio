@@ -1,0 +1,17 @@
+title: "Frequently Asked Questions"
+desc: "Answers to common questions about my work, approach, and services."
+questions:
+  - label: "What services do you offer?"
+    content: "I focus on front-end development with Vue/Nuxt and handle essential backend tasks like database operations and email configurations. I build responsive, functional, and visually appealing web interfaces, and I aim to optimize workflows and improve development efficiency wherever possible."
+
+  - label: "What is your development approach like?"
+    content: "My approach is user-focused, efficient, and iterative. I prioritize clean, intuitive UI, optimized performance, and practical automation in workflows. I continuously learn and experiment with new tools to enhance both design and functionality."
+
+  - label: "Do you work on personal projects and enjoy learning new things?"
+    content: "Yes! I love experimenting with personal projects to explore new ideas and technologies. This curiosity drives me to continuously learn, improve my skills, and find smarter ways to build functional, optimized, and interactive web solutions."
+
+  - label: "What do you enjoy most about your work?"
+    content: "I love creating interfaces that look great and work flawlessly. Solving challenges by combining design and functionality, and making digital experiences smooth and enjoyable for users, is what drives me. I also enjoy exploring ways to automate repetitive tasks to streamline development."
+
+  - label: "What are your hobbies outside of work?"
+    content: "I enjoy exploring new UI/UX trends, experimenting with small coding projects, and learning automation workflows. Outside tech, I like Poetry Listening & Writing, trying new cafes, and spending time in nature to recharge and stay inspired."
