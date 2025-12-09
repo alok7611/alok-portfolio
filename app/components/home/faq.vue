@@ -6,7 +6,7 @@
                 <h4>{{ faqitems.desc }}</h4>
                 <UAccordion :items="items" :default-open="0">
                   <template #default="{ item }">
-                    <h5 class="font-medium">{{ item.label }}</h5>
+                    <h6 class="font-normal">{{ item.label }}</h6>
                   </template>
                   <template #content="{ item }">
                     <p>{{ item.content }}</p>
